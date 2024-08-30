@@ -6,4 +6,4 @@
 
 <<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kethellem&theme=merko&hide_border=falso&card_width=1100" alt="GitHub Streak" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem&bg_color=121212&color=00ff1e&line=1eff00&point=ff00dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem&bg_color=121212&color=56b893&line=afe222&point=71fec8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
