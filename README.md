@@ -4,6 +4,6 @@
 
  ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kethellem&theme=dark&hide_border=falso&locale=pt_BR&card_width=1000&card_height=" alt="GitHub Streak" /></a>
+<<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kethellem&theme=merko&hide_border=falso&card_width=1100" alt="GitHub Streak" /></a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem&bg_color=121212&color=00ff1e&line=1eff00&point=ff00dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
