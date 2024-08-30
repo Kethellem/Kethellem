@@ -6,3 +6,4 @@
 
 
 .
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem Oliveira&bg_color=0d0d0d&color=00ffd5&line=9aeb05&point=ff00bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
