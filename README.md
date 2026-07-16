@@ -53,21 +53,8 @@ Em breve aqui você encontrará projetos como:
 ---
 
 ## 📈 Atividade no GitHub
-<img src="https://streak-stats.demolab.com?user=Kethellem
-&hide_border=true
-&background=0B3D02
-&ring=1CA3EC
-&fire=AFE222
-&currStreakLabel=FFFFFF
-&sideNums=FFFFFF
-&sideLabels=AFE222
-&dates=71FEC8
-&stroke=1CA3EC" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem
-&bg_color=0B3D02
-&color=1CA3EC
-&line=AFE222
-&point=FFFFFF
-&area=true
-&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Kethellem&hide_border=true&background=0B3D02&ring=1CA3EC&fire=AFE222&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=AFE222&dates=71FEC8&stroke=1CA3EC" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem&bg_color=0B3D02&color=1CA3EC&line=AFE222&point=FFFFFF&area=true&hide_border=true)
+
