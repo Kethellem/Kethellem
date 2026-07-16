@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### 🛠️ Tecnologias que utilizo
-
 ![Python](https://img.shields.io/badge/Python-2E8B57?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0B3D02?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1CA3EC?style=for-the-badge&logo=git&logoColor=white)
