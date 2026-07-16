@@ -1,9 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AFE222&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=header"/>
 
-[![ DigitandoSVG](https://readme-typing-svg.herokuapp.com/?color=56B893&size=35¢er=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Kethellem+Oliveira;Tenho+29+anos+;Sou+do+Brasil;Cientista+de+Dados;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E8B57&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Kethellem+Oliveira;Amazônida+vivendo+em+Piracicaba;Cientista+de+Dados+%7C+Ciência+da+Computação;Construindo+portfólio+em+Geoprocessamento;Seja+Bem-Vindo!)](https://git.io/typing-svg)
 
- ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+---
 
-<<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kethellem&theme=merko&hide_border=falso&card_width=1100" alt="GitHub Streak" /></a>
+## 🌱 Sobre mim
+Sou a Kethellem, nascida no Amazonas e atualmente morando em Piracicaba.  
+Estudo **Ciência da Computação** e tenho formação profissionalizante em **Data Science pela EBAC** (10 meses).  
+Estou construindo meu portfólio focado em **Geoprocessamento, Sustentabilidade e Análise Ambiental**.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem&bg_color=121212&color=56b893&line=afe222&point=71fec8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+## 🛠️ Skills principais
+![Python](https://img.shields.io/badge/Python-2E8B57?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0B3D02?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🌳 Projetos (em construção)
+Em breve:
+- Análise de uso da terra com MapBiomas  
+- Manipulação de shapefiles com Python  
+- Mapas interativos com Folium  
+
+---
+
+## 📈 Atividade no GitHub
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=Kethellem&theme=merko&hide_border=true&card_width=1100" />
+</a>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem&bg_color=121212&color=2E8B57&line=AFE222&point=71fec8&area=true&hide_border=true)
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=footer"/>
