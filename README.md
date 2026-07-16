@@ -1,8 +1,5 @@
 <img width="100%" src="https://raw.githubusercontent.com/Kethellem/Kethellem/main/rio-amazonas.svg"/>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3D02&height=120&section=header"/>
-
 <div align="center">
 
 ### 🌍 Kethellem Oliveira  
