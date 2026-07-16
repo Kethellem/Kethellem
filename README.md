@@ -53,12 +53,23 @@ Em breve aqui você encontrará projetos como:
 ---
 
 ## 📈 Atividade no GitHub
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=Kethellem&theme=forest&hide_border=true&card_width=1100" />
-</a>
+## 📈 Atividade no GitHub
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem&bg_color=0B3D02&color=AFE222&line=71fec8&point=ffffff&area=true&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Kethellem
+&hide_border=true
+&background=0B3D02
+&ring=1CA3EC
+&fire=AFE222
+&currStreakLabel=FFFFFF
+&sideNums=FFFFFF
+&sideLabels=AFE222
+&dates=71FEC8
+&stroke=1CA3EC" />
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3D02&height=120&section=footer"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem
+&bg_color=0B3D02
+&color=1CA3EC
+&line=AFE222
+&point=FFFFFF
+&area=true
+&hide_border=true)
