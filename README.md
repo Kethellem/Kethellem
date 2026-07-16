@@ -53,8 +53,6 @@ Em breve aqui você encontrará projetos como:
 ---
 
 ## 📈 Atividade no GitHub
-## 📈 Atividade no GitHub
-
 <img src="https://streak-stats.demolab.com?user=Kethellem
 &hide_border=true
 &background=0B3D02
