@@ -1,37 +1,64 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3D02&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E8B57&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Kethellem+Oliveira;Amazônida+vivendo+em+Piracicaba;Ciência+da+Computação+%7C+Data+Science;Construindo+portfólio+em+Geoprocessamento;Seja+Bem-Vindo!)](https://git.io/typing-svg)
+<div align="center">
 
----
+### 🌍 Kethellem Oliveira  
+### Amazônida • Ciência da Computação • Data Science • Geoprocessamento
 
-## 🌱 Sobre mim
-Sou a Kethellem, nascida no Amazonas e atualmente morando em Piracicaba.  
-Estudo **Ciência da Computação** e tenho formação profissionalizante em **Data Science pela EBAC** (10 meses).  
-Estou construindo meu portfólio focado em **Geoprocessamento, Sustentabilidade e Análise Ambiental**.
+</div>
 
 ---
 
-## 🛠️ Skills principais
+## 🍃 Quem sou eu
+Sou a Kethellem, nascida no coração da Amazônia e atualmente vivendo em Piracicaba.  
+Minha trajetória une **tecnologia, território e sustentabilidade**.  
+Estudo **Ciência da Computação** e concluí um curso profissionalizante de **Data Science pela EBAC** (10 meses).  
+
+Hoje, estou construindo meu portfólio voltado para:
+
+- Geoprocessamento  
+- Monitoramento ambiental  
+- Sustentabilidade  
+- Dados geoespaciais  
+
+---
+
+## 🌱 Minha identidade amazônica
+Carrego comigo a força da floresta, dos rios e das pessoas que vivem dela.  
+Isso guia minha visão de mundo e inspira meus projetos — especialmente aqueles ligados a:
+
+- Uso da terra  
+- Conservação  
+- Impacto ambiental  
+- Dados abertos brasileiros  
+
+---
+
+## 🛠️ Tecnologias que utilizo
 ![Python](https://img.shields.io/badge/Python-2E8B57?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0B3D02?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1CA3EC?style=for-the-badge&logo=git&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-8B5A2B?style=for-the-badge&logo=qgis&logoColor=white)
 
 ---
 
 ## 🌳 Projetos (em construção)
-Em breve:
-- Análise de uso da terra com MapBiomas  
-- Manipulação de shapefiles com Python  
-- Mapas interativos com Folium  
+Em breve aqui você encontrará projetos como:
+
+- **Análise de uso da terra com MapBiomas**  
+- **Manipulação de shapefiles com Python (Geopandas)**  
+- **Mapas interativos com Folium**  
+- **Dashboards ambientais com Plotly**  
 
 ---
 
 ## 📈 Atividade no GitHub
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=Kethellem&theme=merko&hide_border=true&card_width=1100" />
+<img src="https://streak-stats.demolab.com?user=Kethellem&theme=forest&hide_border=true&card_width=1100" />
 </a>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem&bg_color=121212&color=2E8B57&line=AFE222&point=71fec8&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethellem&bg_color=0B3D02&color=AFE222&line=71fec8&point=ffffff&area=true&hide_border=true)
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3D02&height=120&section=footer"/>
