@@ -1,0 +1,19 @@
+<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rio" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B3D02"/>
+      <stop offset="50%" stop-color="#1CA3EC"/>
+      <stop offset="100%" stop-color="#0B3D02"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="180" fill="#0B3D02"/>
+
+  <path d="M0 90 
+           C 200 40, 400 140, 600 90 
+           S 1000 40, 1200 90" 
+        stroke="url(#rio)" 
+        stroke-width="35" 
+        fill="none" 
+        stroke-linecap="round"/>
+</svg>
